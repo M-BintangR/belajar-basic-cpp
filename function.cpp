@@ -20,6 +20,7 @@ using namespace std;
     10. sin(x) => sinus
     11. sqrt => akar kuadrat
     12. tan(x) => tanges
+    13. rand() => mencari angka random
 */
 
 int main()
