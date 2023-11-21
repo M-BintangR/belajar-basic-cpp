@@ -20,6 +20,8 @@ int main()
 
 int fibonaci(int n)
 {
+    cout << "fungsi fibonaci : " << n << endl;
+
     if ((n == 0) || (n == 1))
     {
         return n;
